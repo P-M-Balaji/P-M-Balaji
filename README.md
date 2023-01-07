@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/balaji-pm-9557921ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="balaji pm" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14270860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14270860" height="30" width="40" /></a>
-<a href="https://medium.com/@dineshbalajipm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dineshbalajipm" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/balaji_pm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="balaji_pm" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/balaji-pm-9557921ab/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="balaji_pm" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14270860" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14270860" height="30" width="40" /></a>
+<a href="https://medium.com/@dineshbalajipm" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dineshbalajipm" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/balaji_pm" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="balaji_pm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
