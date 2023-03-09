@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/balaji-pm-9557921ab/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/32/174/174857.png" alt="balaji_pm" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/balaji-putta-mohan/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/32/174/174857.png" alt="balaji_pm" height="40" width="40" /></a>
 &nbsp;
 <a href="https://medium.com/@dineshbalajipm" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/32/5968/5968906.png" alt="@dineshbalajipm" height="40" width="40" /></a>
 </p>
